@@ -10,19 +10,19 @@ Here is the student project list I've done in my undergraduate university degree
 
 [2019 Project](#2019-Project)
 
-* [Treatment Usage Diary](#): A website developed for Charles Perkins Center research group developed using NodeJS framework.
+* [Treatment Usage Diary](#treatment-usage-diary): A website developed for Charles Perkins Center research group developed using NodeJS framework.
 
-* [Sleep Diary](#): An android app for daily sleep data recording.
+* [Sleep Diary](#running-diary): An android app for daily sleep data recording.
 
-* [Running Diary](#): An android app to track your running activities.
+* [Running Diary](#running-diary): An android app to track your running activities.
 
-* [Article Insight](#): A webpage developed using NodeJS to query Wikipedia and generate statistics on it.
+* [Article Insight](#article-insight): A webpage developed using NodeJS to query Wikipedia and generate statistics on it.
 
-* [Flying Stickman](#)✓: A stickman game implemented using C++.
+* [Flying Stickman](#flying-stickman)✓: A stickman game implemented using C++.
 
-* [Youtube Video Statistics](#): Analyze youtube video dataset using MapReduce and Spark.
+* [Online Review Analysis](#online-review-analysis): Analyze product review data from Amazon to generate statistics using Spark and ML algorithms.
 
-* [Online Review Analysis](#): Analyze product review data from Amazon to generate statistics using Spark and ML algorithms.
+* [Youtube Video Statistics](#youtube-video-statistics): Analyze youtube video dataset using MapReduce and Spark.
 
 [2018 Project](#2018-Project)
 
@@ -52,6 +52,46 @@ More to come.
 
 ## 2019 Project
 
+### Treatment Usage Diary
+
+**Project Period**: Aug 2019 - Nov 2019
+
+More to come
+
+### Sleep Diary
+
+**Project Period**: Oct 2019
+
+More to come
+
+### Running Diary
+
+**Project Period**: Sep 2019 - Oct 2019
+
+More to come
+
+### Article Insight
+
+**Project Period**: Apr 2019 - Jun 2019
+
+More to come
+
+### Flying Stickman
+
+**Project Period**: Mar 2019 - Jun 2019
+
+More to come
+
+### Online Review Analysis
+
+**Project Period**: May 2019 - Jun 2019
+
+More to come
+
+### Youtube Video Statistics
+
+**Project Period**: Mar 2019 - Apr 2019
+
 More to come
 
 ## 2018 Project
@@ -60,7 +100,7 @@ More to come
 
 **Project Period**: Mar 2018 - Apr 2018
 
-**Repository** [(To be uploaded)]
+**Repository**: [(To be uploaded)]
 
 **Technology**: Java, Minimax Algorithm, tree pruning.
 
