@@ -2,11 +2,29 @@
 Here is the student project list I've done in my undergraduate university degree.
 
 ## Table of Contents
-[2019 Projects](#2019-Projects)
+[Honours and Research Project)(#honour-and-research-project)
 
-* 
+* [SUCCESS](#):
 
-[2018 Projects](#2018-Projects)
+* [MY-Meal Study](#): 
+
+[2019 Project](#2019-Project)
+
+* [Treatment Usage Diary](#): A website developed for Charles Perkins Center research group developed using NodeJS framework.
+
+* [Sleep Diary](#): An android app for daily sleep data recording.
+
+* [Running Diary](#): An android app to track your running activities.
+
+* [Article Insight](#): A webpage developed using NodeJS to query Wikipedia and generate statistics on it.
+
+* [Flying Stickman](#): A stickman game implemented using C++.
+
+* [Youtube Video Statistics](#): Analyze youtube video dataset using MapReduce and Spark.
+
+* [Online Review Analysis](#): Analyze product review data from Amazon to generate statistics using Spark and ML algorithms.
+
+[2018 Project](#2018-Project)
 
 * [Connect 4](#connect-4): An AI Connect 4 game implemented using Minimax algorithm.
 
@@ -16,27 +34,29 @@ Here is the student project list I've done in my undergraduate university degree
 
 * [Supergraph](#supergraph): C program to handle different simulated queries from the given social media data.
 
-[2017 Projects](#2017-Projects)
+[2017 Project](#2017-Project)
 
 * [Pipez](#pipez): A simple system doing CSV transformations.
 
 * [Arithmetic LinkedBinaryTree](#arithmetic-linkedBinaryTree): Render linked binary arithmetic tree to simplify arithmetic expression represented in prefix notation.
 
-[2016 Projects](#2016-Projects)
+[2016 Project](#2016-Project)
 
 * [NoStroke.com](#nostroke.com): A content delivery website.
 
+## Honours and Research Project
 
+More to come.
 
-## 2019 Projects
+## 2019 Project
 
+More to come
 
-
-## 2018 Projects
+## 2018 Project
 
 ### Connect 4
 
-Project Period: Mar 2018 - Apr 2018
+*Project Period*: Mar 2018 - Apr 2018
 
 [Repository(To be uploaded)]
 
@@ -82,7 +102,7 @@ Team work:✗
 
 Write program using the C programming language that will handle different queries from the given social media data and compute the correct result. Functions include: Given a post id, find all reposts of the given post; Given a post id, your query will need to initially determine if the post is an original or a repost; Find the shortest path between two users; Find all the robot accounts.
 
-## 2017 Projects
+## 2017 Project
 
 ### Pipez
 
@@ -109,7 +129,7 @@ Team work:✗
 Render linked binary arithmetic tree to simplify arithmetic expression represented in prefix notation (also known as Polish notation). Method includes: Check if a tree represents a valid arithmetic expression. Convert a prefix notation arithmetic expression to a binary tree; Produce arithmetic expression in prefix, infix notation; Subsitute a numeric value for a variable in all of it’s instances in a tree.
 
 
-## 2016 Projects
+## 2016 Project
 
 ### NoStroke.com
 
