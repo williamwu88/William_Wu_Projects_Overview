@@ -4,11 +4,29 @@ The project list I've done till now.
 ## Table of Contents
 [2019 Projects](#2019-Projects)
 
+* 
+
 [2018 Projects](#2018-Projects)
+
+* [Connect 4](#connect-4)
+
+* [Pima-Classification](#pima-classification)
+
+* [Virtual Stack](#virtual-stack)
+
+* [Supergraph](#supergraph)
 
 [2017 Projects](#2017-Projects)
 
+* [Pipez](#pipez)
+
+* [Arithmetic LinkedBinaryTree](#arithmetic-linkedBinaryTree)
+
 [2016 Projects](#2016-Projects)
+
+* [NoStroke.com](#nostroke.com)
+
+
 
 ## 2019 Projects
 
@@ -16,25 +34,10 @@ The project list I've done till now.
 
 ## 2018 Projects
 
-### Virtual Stack(Mar 2018 - Apr 2018)
-[Repository(Unavailable)]
+### Connect 4
 
-Technology used: C, Bash script
+Project Period: Mar 2018 - Apr 2018
 
-Team work:✗
-
-Implement a virtual stack using C, and perform operations on a virtual stack. The program will take a single command line argument being the name of the file containing the pseudo-assembly code. It will read the pseudo-assembly code, perform commands, and return the expected results after these operations.
-
-### Supergraph(Apr 2018 - Jun 2018)
-[Repository(Unavailable)]
-
-Technology used: C, multi-threading
-
-Team work:✗
-
-Write program using the C programming language that will handle different queries from the given social media data and compute the correct result. Functions include: Given a post id, find all reposts of the given post; Given a post id, your query will need to initially determine if the post is an original or a repost; Find the shortest path between two users; Find all the robot accounts.
-
-### Connect 4(Mar 2018 - Apr 2018)
 [Repository(To be uploaded)]
 
 Technology used: Java, Minimax Algorithm, tree pruning.
@@ -43,7 +46,10 @@ Team work:✗
 
 Implement the minimax search algorithm with and without alpha-beta pruning in order to play a game of Connect 4. Given an initial starting state of the board, and whose turn it is to play, will output the column to play in. The program also has a command line version where you can set up difficulty level and play with the computer.
 
-### Pima-Classification(Apr 2018 - Jun 2018)
+### Pima-Classification
+
+Project Period: Apr 2018 - Jun 2018
+
 [Repository(To be uploaded)]
 
 Technology used: Java, Naive Bayes, Decision Tree
@@ -52,9 +58,36 @@ Team work:✗
 
 Implement the Naïve Bayes and Decision Tree algorithms and evaluate them on a real dataset using the stratified cross validation method. Classify patient as diabetes or not by training model using Naive bayes and decision tree.
 
+### Virtual Stack
+
+Project Period: Mar 2018 - Apr 2018
+
+[Repository(Unavailable)]
+
+Technology used: C, Bash script
+
+Team work:✗
+
+Implement a virtual stack using C, and perform operations on a virtual stack. The program will take a single command line argument being the name of the file containing the pseudo-assembly code. It will read the pseudo-assembly code, perform commands, and return the expected results after these operations.
+
+### Supergraph
+
+Project Period: Apr 2018 - Jun 2018
+
+[Repository(Unavailable)]
+
+Technology used: C, multi-threading
+
+Team work:✗
+
+Write program using the C programming language that will handle different queries from the given social media data and compute the correct result. Functions include: Given a post id, find all reposts of the given post; Given a post id, your query will need to initially determine if the post is an original or a repost; Find the shortest path between two users; Find all the robot accounts.
+
 ## 2017 Projects
 
-### Pipez(Apr 2017 - Jun 2017)
+### Pipez
+
+Project Period: Apr 2017 - Jun 2017
+
 [Repository(Open Source)](https://github.com/williamwu88/pipez_ENGG1805)
 
 Technology used: Java, JUnit
@@ -63,7 +96,10 @@ Team work:✓
 
 Pipez is a simple system for executing workflows that do text transformations. A workflow is defined as a pipeline of one or more pipes, each of which performs a specific transformation. The system currently supports CSV document transformations.
 
-### LinkedBinaryTree(Aug 2017 - Nov 2017)
+### Arithmetic LinkedBinaryTree
+
+Project Period: Aug 2017 - Nov 2017
+
 [Repository(To be uploaded)]
 
 Technology used: Java, Data structures: Binary tree, hashMap
@@ -75,7 +111,9 @@ Render linked binary arithmetic tree to simplify arithmetic expression represent
 
 ## 2016 Projects
 
-### NoStroke.com(Aug 2016 - Nov 2016)
+### NoStroke.com
+
+Project Period: Aug 2016 - Nov 2016
 [Repository(Open Source)](https://github.com/williamwu88/NoStroke_INFO1003)
 
 Technology used: HTML, CSS, Javascript, jQuery, Bootstrap
