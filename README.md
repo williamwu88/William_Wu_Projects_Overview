@@ -1,5 +1,5 @@
 # William_Wu_Projects_Overview
-The project list I've done till now.
+Here is the student project list I've done in my undergraduate university degree.
 
 ## Table of Contents
 [2019 Projects](#2019-Projects)
@@ -8,23 +8,23 @@ The project list I've done till now.
 
 [2018 Projects](#2018-Projects)
 
-* [Connect 4](#connect-4)
+* [Connect 4](#connect-4): An AI Connect 4 game implemented using Minimax algorithm.
 
-* [Pima-Classification](#pima-classification)
+* [Pima-Classification](#pima-classification): Use Naive Bayes and Decision tree to classify diabete patients.
 
-* [Virtual Stack](#virtual-stack)
+* [Virtual Stack](#virtual-stack): Implement a Virtual stack in C.
 
-* [Supergraph](#supergraph)
+* [Supergraph](#supergraph): C program to handle different simulated queries from the given social media data.
 
 [2017 Projects](#2017-Projects)
 
-* [Pipez](#pipez)
+* [Pipez](#pipez): A simple system doing CSV transformations.
 
-* [Arithmetic LinkedBinaryTree](#arithmetic-linkedBinaryTree)
+* [Arithmetic LinkedBinaryTree](#arithmetic-linkedBinaryTree): Render linked binary arithmetic tree to simplify arithmetic expression represented in prefix notation.
 
 [2016 Projects](#2016-Projects)
 
-* [NoStroke.com](#nostroke.com)
+* [NoStroke.com](#nostroke.com): A content delivery website.
 
 
 
@@ -114,6 +114,7 @@ Render linked binary arithmetic tree to simplify arithmetic expression represent
 ### NoStroke.com
 
 Project Period: Aug 2016 - Nov 2016
+
 [Repository(Open Source)](https://github.com/williamwu88/NoStroke_INFO1003)
 
 Technology used: HTML, CSS, Javascript, jQuery, Bootstrap
