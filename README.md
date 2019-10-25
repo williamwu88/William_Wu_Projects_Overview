@@ -42,7 +42,7 @@ Here is the student project list I've done in my undergraduate university degree
 
 [2016 Project](#2016-Project)
 
-* [NoStroke.com](#nostroke.com): A content delivery website.
+* [NoStroke.com](#nostrokecom): A content delivery website.
 
 ## Honours and Research Project
 
