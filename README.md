@@ -80,7 +80,7 @@ More to come
 
 **Project Period**: Mar 2019 - Jun 2019
 
-**Repository**: [(Open Source)](https://github.com/williamwu88/Flying-Stickman)
+**Repository**: [MIT License](https://github.com/williamwu88/Flying-Stickman)
 
 More to come
 
