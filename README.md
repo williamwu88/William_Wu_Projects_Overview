@@ -10,7 +10,7 @@ Here is the student project list I've done in my undergraduate university degree
 
 [2019 Project](#2019-Project)
 
-* [Treatment Usage Diary(working)](#treatment-usage-diary): A website developed for Charles Perkins Center research group developed using NodeJS framework.
+* [Treatment Usage Diary(working)](#treatment-usage-diary): A website developed using NodeJS framework for recording patient sleep data.
 
 * [Sleep Diary](#running-diary): An android app for daily sleep data recording.
 
